@@ -7,7 +7,7 @@
 - 🛠️ Working on Booking System + Meeting Automation App
 - 🧪 Currently exploring Kotlin and Android Studio
 
-📫 Reach me: josmuteti@gmail.com  
+📫 Reach me: josphatmuteti9922@gmail.com  
 🌐 Portfolio: Coming soon
 
 *“My goal is to solve real-world problems through code and security.”*
